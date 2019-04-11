@@ -1,0 +1,1 @@
+Grant dashboard to access Kubernetes resources
